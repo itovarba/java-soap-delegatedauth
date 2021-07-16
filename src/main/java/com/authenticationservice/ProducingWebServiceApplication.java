@@ -1,4 +1,4 @@
-package com.example.producingwebservice;
+package com.authenticationservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class ProducingWebServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ProducingWebServiceApplication.class, args);
 	}
-
 }
